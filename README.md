@@ -4,5 +4,5 @@ This project is a JavaFX implementation of a custom **Minesweeper** variation, d
 
 ## Note
 
-The project materials, including `multimedia_project_22-23.pdf`, are provided in Greek as originally required by the course.  
+The project description in `multimedia_project_22-23.pdf`, is provided in Greek as originally required by the course.  
 The source code is fully in English, and the solution description is available in `Minesweeper_EN.pdf` for clarity.
